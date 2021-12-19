@@ -1,0 +1,10 @@
+url_auth: https://robot-dreams-de-api.herokuapp.com/auth
+url_out_of_stock: https://robot-dreams-de-api.herokuapp.com/out_of_stock
+content-type: application/json
+username: rd_dreams
+password: djT6LasE
+Authorization: "JWT "
+filename: 'products.json'
+year_start: 2021
+month_start: 9
+day_start: 1
